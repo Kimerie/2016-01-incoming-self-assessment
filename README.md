@@ -12,19 +12,19 @@
 ## Grading Outline
 
 #### js-quiz-game
-[ ] While on the game.html, have the 'Home' button in the top left corner take you back to the index.html page.
+[ C ] While on the game.html, have the 'Home' button in the top left corner take you back to the index.html page.
 
-[ ] Show the count by adding the 'count' variable to the top right corner of the page
+[ A ] Show the count by adding the 'count' variable to the top right corner of the page
 
-[ ] answerGenerator: this feature generates the answers to their corresponding question.
+[ A ] answerGenerator: this feature generates the answers to their corresponding question.
 
-[ ] QandA generator: this feature generates the next question when and answers when the user gets the question correct
+[ NA ] QandA generator: this feature generates the next question when and answers when the user gets the question correct
 
-[ ] EXTRA: add a feature that collects a userName from the user and personalizes the 'you are correct!' prompt when the user has a successful answer.
+[ NA ] EXTRA: add a feature that collects a userName from the user and personalizes the 'you are correct!' prompt when the user has a successful answer.
 
 ####BinarySearch
 
-[ ] completed binary search
+[ SP ] completed binary search
 
 
 ## Self-Grading Process
