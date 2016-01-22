@@ -43,7 +43,7 @@ app.questions = [{
 		'refPage': 'https://docs.oracle.com/cd/E19957-01/816-6409-10/navobj.htm'
 		
 	},{
-		'question':'What is mean by "this" keyword in javascript?',
+		'question':'What is meant by "this" keyword in javascript?',
 		'choices': ['It refers current object','It referes previous object','It is variable which contains value','None of the above'],
 		'correct': 'It refers current object',
 		'refPage': 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this'
